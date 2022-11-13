@@ -3,6 +3,7 @@ Rencana Konten Jay
 - Javascript
   * ES6
   * Freamwork
+- Struktur data dasar
 - Vlog
 - Day my life
 - Course
