@@ -3,6 +3,7 @@ Rencana Konten Jay
 - Javascript
   * ES6
   * Freamwork
+  * React
 - Struktur data dasar
 - PHP Freamwork
  * Laravel
