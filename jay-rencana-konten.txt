@@ -1,5 +1,8 @@
 Rencana Konten Jay
 
+- Javascript
+  * ES6
+  * Freamwork
 - Vlog
 - Day my life
 - Course
