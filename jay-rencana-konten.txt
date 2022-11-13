@@ -3,7 +3,11 @@ Rencana Konten Jay
 - Javascript
   * ES6
   * Freamwork
+   * angular
+   * React
 - Struktur data dasar
+- PHP 
+ * Laravel
 - Vlog
 - Day my life
 - Course
