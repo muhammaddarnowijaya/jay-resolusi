@@ -4,6 +4,9 @@ Rencana Konten Jay
   * ES6
   * Freamwork
 - Struktur data dasar
+- PHP Freamwork
+ * Laravel
 - Vlog
 - Day my life
 - Course
+- Pyhton
